@@ -1,0 +1,78 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		3CE8EB1E1FD7862A000CFF75 /* BST.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BST.cpp; sourceTree = "<group>"; };
+		3CE8EB201FD78666000CFF75 /* BST.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BST.h; sourceTree = "<group>"; };
+		3CE8EB211FD786A5000CFF75 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		3CE8EB221FD786E2000CFF75 /* node.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = node.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		3CE8EB0F1FD51AEC000CFF75 = {
+			isa = PBXGroup;
+			children = (
+				3CE8EB221FD786E2000CFF75 /* node.h */,
+				3CE8EB211FD786A5000CFF75 /* main.cpp */,
+				3CE8EB1E1FD7862A000CFF75 /* BST.cpp */,
+				3CE8EB201FD78666000CFF75 /* BST.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		3CE8EB101FD51AEC000CFF75 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+			};
+			buildConfigurationList = 3CE8EB131FD51AEC000CFF75 /* Build configuration list for PBXProject "BST" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3CE8EB0F1FD51AEC000CFF75;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		3CE8EB141FD51AEC000CFF75 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		3CE8EB151FD51AEC000CFF75 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CE8EB131FD51AEC000CFF75 /* Build configuration list for PBXProject "BST" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CE8EB141FD51AEC000CFF75 /* Debug */,
+				3CE8EB151FD51AEC000CFF75 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3CE8EB101FD51AEC000CFF75 /* Project object */;
+}
